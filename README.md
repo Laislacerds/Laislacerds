@@ -1,7 +1,7 @@
 ## Olá, Me chamo Laís Lacerda
 
 - 🌱  Atualmente estudando Python
-- 📫  Contate-me no E-mail: laislacerda2022@gmail.com
+- 📫  Contate-me no E-mail: laislcd@outlook.com
 - 😄  Pronouns: Ela/Dela
 
 <div align="center">
