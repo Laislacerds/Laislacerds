@@ -1,6 +1,8 @@
 ## Olá, Me chamo Laís Lacerda
 
-- Atualmente estudando Python
+- Atualmente estudando Python, Machine Learning...
+- Entusiasta de Dados 
+- Cursando Análise e Desenvolvimento De Sistemas
 - 📫 Contate-me no E-mail: laislcd@outlook.com
 - Contate-me no Linkedin: Laís Lacerda
 - 😄 Pronouns: Ela/Dela
