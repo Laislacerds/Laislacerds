@@ -1,5 +1,4 @@
-## Olá, Me chamo Laís Lacerda
-
+## Olá, Me chamo Laís Lacerda or Hello, My name is Laís Lacerda
 - Atualmente estudando Python e Machine Learning...
 - Entusiasta de Dados 
 - Cursando Análise e Desenvolvimento De Sistemas
