@@ -1,6 +1,6 @@
 ## Olá, Me chamo Laís Lacerda or Hello, My name is Laís Lacerda
 - Atualmente estudando Python e suas bibliotecas para Análise de dados...
-- Entusiasta de Dados 
+- Entusiasta de Tecnologia 
 - Cursando Análise e Desenvolvimento De Sistemas
 - 📫 Contate-me no E-mail: laislcd@outlook.com
 - Contate-me no Linkedin: Laís Lacerda
