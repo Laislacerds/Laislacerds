@@ -19,6 +19,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laislacerds&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+## Linguagens Recentes
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laislacerds&layout=compact&langs_count=10&theme=dracula&hide=html,css)](https://github.com/Laislacerds)
+
+
 ## Vamos Conectar
 
 Sinta-se à vontade para entrar em contato! Seja sobre tecnologia, projetos ou apenas para um bate-papo amigável, estou sempre aberta para conectar e colaborar. Vamos construir algo incrível juntos!
