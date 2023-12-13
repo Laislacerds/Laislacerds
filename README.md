@@ -3,9 +3,9 @@
 ## Sobre Mim
 
 - 🌱 Atualmente estudando Python e suas bibliotecas para Análise de Dados.
-- 💻 Entusiasta de Tecnologia
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 😄 Pronomes: Ela/Dela
+- 💻 Entusiasta de Tecnologia.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 😄 Pronomes: Ela/Dela.
 
 ## Contato
 
