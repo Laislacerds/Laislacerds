@@ -30,3 +30,5 @@
 
 Sinta-se à vontade para entrar em contato! Seja sobre tecnologia, projetos ou apenas para um bate-papo amigável,
 estou sempre aberta para conectar e colaborar. Vamos construir algo incrível juntos!
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
