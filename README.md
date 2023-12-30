@@ -1,8 +1,5 @@
 
-<p>
-    <span style="background-color: #pink; padding: 10px;">Olá, eu sou Laís Lacerda</span>
-</p>
-
+## Olá, eu sou Laís Lacerda
 ## Sobre Mim
 
 - 🌱 Atualmente estudando Python e suas bibliotecas para Análise de Dados.
