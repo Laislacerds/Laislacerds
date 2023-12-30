@@ -1,5 +1,5 @@
 
-# Olá, EU SOU Laís Lacerda - Apaixonada por Transformar Linhas de Código em Experiências Incríveis! 👩‍💻
+# Olá, eu sou Laís Lacerda - Apaixonada por Transformar Linhas de Código em Experiências Incríveis! 👩‍💻
 
 ## Sobre Mim
 
