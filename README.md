@@ -1,5 +1,6 @@
 
-## Olá, eu sou Laís Lacerda
+## Olá, EU SOU Laís Lacerda
+
 ## Sobre Mim
 
 - 🌱 Atualmente estudando Python e suas bibliotecas para Análise de Dados.
@@ -8,17 +9,10 @@
 - 😄 Pronomes: Ela/Dela.
 
 ## Contato
-
-
-## Contacts:
-
 <div> 
 <a href = "mailto:  laislcd@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/laislacerda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
-
-- 📧 Email: laislcd@outlook.com
-- 🔗 Linkedin: [Laís Lacerda](https://www.linkedin.com/in/laislacerda/)
 
 ## Estatísticas do GitHub
 <div align="center">
@@ -30,7 +24,7 @@
 
 
 ## Vamos Conectar
-
-Sinta-se à vontade para entrar em contato! Seja sobre tecnologia, projetos ou apenas para um bate-papo amigável, estou sempre aberta para conectar e colaborar. Vamos construir algo incrível juntos!
+Sinta-se à vontade para entrar em contato! Seja sobre tecnologia, projetos ou apenas para um bate-papo amigável,
+estou sempre aberta para conectar e colaborar. Vamos construir algo incrível juntos!
 
  
