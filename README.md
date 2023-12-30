@@ -1,4 +1,7 @@
-# Olá! 👋 Eu sou Laís Lacerda
+
+<img align="center" style="margin-bottom:100px" width=100% src="# Olá! 👋 Eu sou Laís Lacerda" />
+&nbsp;&nbsp;&nbsp;
+
 
 ## Sobre Mim
 
