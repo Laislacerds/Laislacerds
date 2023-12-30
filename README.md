@@ -1,6 +1,6 @@
 
 <p>
-    <span style="background-color: #e0e0e0; padding: 10px;">Olá, eu sou Laís Lacerda</span>
+    <span style="background-color: #pink; padding: 10px;">Olá, eu sou Laís Lacerda</span>
 </p>
 
 ## Sobre Mim
