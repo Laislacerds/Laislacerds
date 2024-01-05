@@ -19,6 +19,13 @@
   </a> 
 </div>
 
+
+###  Top Skills
+  
+ [ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+ ![ Python ](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+ ![ mysql ](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+ 
 ## Estatísticas do GitHub
 
 <div align="center">
