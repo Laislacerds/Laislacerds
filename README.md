@@ -2,13 +2,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=180&section=header&text=Olá,+eu+sou+a+Laís+Lacerda!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ## 👩‍💻 Sobre Mim
-🌱 Atualmente imersa no universo Python, suas bibliotecas e ferramentas para Análise de Dados e Automação.
-🤖 Entusiasta de Dados, Inteligência Artificial e Machine Learning.
-🎓 Graduada em Análise e Desenvolvimento de Sistemas pela Universidade Católica.
-🛠 Experiência com bancos de dados relacionais, modelagem de dados e dashboards interativos.
-💡 Apaixonada por resolução de problemas, tecnologia inovadora e criação de soluções inteligentes.
-🌍 Sempre buscando aprender novas tecnologias, contribuir em projetos open source e colaborar com profissionais da área.
-😄 Pronomes: Ela/Dela.
+- 🌱 Atualmente imersa no universo **Python**, suas bibliotecas e ferramentas para **Análise de Dados** e Automação.
+- 🤖 Entusiasta de **Dados**, **Inteligência Artificial** e **Machine Learning.**
+- 🎓 Graduada em **Análise e Desenvolvimento de Sistemas** pela Universidade Católica.
+- 🛠 Experiência com **bancos de dados relacionais**, **modelagem de dados** e **dashboards interativos.**
+- 💡 Apaixonada por resolução de problemas, tecnologia e criação de soluções inteligentes.
+- 🌍 Sempre buscando aprender novas tecnologias e contribuir em projetos open source.
+- 😄 Pronomes: Ela/Dela.
 
 ---
 
