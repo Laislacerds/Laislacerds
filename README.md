@@ -1,5 +1,5 @@
 <!-- Banner animado -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=180&section=header&text=Olá,+eu+sou+a+Laís+Lacerda!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=180&section=header&text=Olá,+eu+me+chamo+Laís+Lacerda!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ## 👩‍💻 Sobre Mim
 - 🌱 Atualmente imersa no universo **Python**, suas bibliotecas e ferramentas para **Análise de Dados** e Automação.
@@ -39,6 +39,8 @@
   <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Laislacerds&theme=radical&mode=weekly" />
   <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laislacerds&show_icons=true&theme=radical&layout=compact" />
 </div>
+
+---
 
 ## 🤝 Vamos Conectar?
 💬 Estou sempre aberta para trocar ideias sobre tecnologia, dados e projetos. Vamos colaborar!
