@@ -34,9 +34,18 @@
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Laislacerds&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Laislacerds&theme=radical&mode=weekly" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laislacerds&layout=compact&theme=radical" />
+  
+  <!-- Estatísticas gerais -->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Laislacerds&show_icons=true&count_private=true&hide_border=true&title_color=8F0D87&icon_color=8F0D87&text_color=c9d1d9&bg_color=0d1117" alt="Lais GitHub Stats" /> 
+  
+  <!-- Streak -->
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=Laislacerds&theme=radical&hide_border=true" alt="Lais GitHub Streak" />
+  
+</div>
+
+<!-- Linguagens -->
+<div align="center">
+  <img width="91%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laislacerds&layout=compact&hide_border=true&title_color=8F0D87&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ---
