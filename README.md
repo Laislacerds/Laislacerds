@@ -36,12 +36,6 @@
   <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Laislacerds&theme=radical&mode=weekly" />
   <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laislacerds&show_icons=true&theme=radical&layout=compact" />
 </div>
-
-<!-- Linguagens -->
-<div align="center">
-  <img width="91%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laislacerds&layout=compact&hide_border=true&title_color=8F0D87&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
 ---
 
 ## 🤝 Vamos Conectar?
